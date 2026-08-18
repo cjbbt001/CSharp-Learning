@@ -1,0 +1,25 @@
+# Third-party reference clones (do not push upstream code)
+references/
+
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+project.lock.json
+artifacts/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
